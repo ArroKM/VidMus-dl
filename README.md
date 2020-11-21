@@ -2,7 +2,7 @@
 
 <h3>Screenshot</h3>
 
-![IMG_20200816_104212](https://user-images.githubusercontent.com/46747652/90326014-42b95580-dfad-11ea-897e-c6ef18c3e14e.jpg)
+![IMG_20201121_212533](https://user-images.githubusercontent.com/46747652/99879557-5b867680-2c40-11eb-8501-805de0bdd96d.jpg)
 
 <h3>Installing</h3>
 
