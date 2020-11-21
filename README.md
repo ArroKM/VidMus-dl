@@ -10,11 +10,11 @@ Download Video Dan Music
 
 ```java
 $ apt update && apt upgrade
+$ termux-setup-storage;mkdir $HOME/storage/shared/Vidmus
 $ apt install git
 $ apt install python
 $ pip install requests
 $ pip install tqdm
-$ pip install bs4
 $ git clone https://github.com/ArroKM/VidMus-dl
 $ cd VidMus-dl
 $ python3 vimus.py
