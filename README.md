@@ -17,5 +17,5 @@ $ pip install requests
 $ pip install tqdm
 $ git clone https://github.com/ArroKM/VidMus-dl
 $ cd VidMus-dl
-$ python3 vimus.py
+$ python3 vidmus.py
 ```
