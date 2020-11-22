@@ -4,7 +4,7 @@ Download Video Dan Music
 
 <h3>Screenshot</h3>
 
-![IMG_20201122_050326](https://user-images.githubusercontent.com/46747652/99888531-2732aa80-2c80-11eb-8532-ce1329a6c6a6.jpg)
+![IMG_20201122_200209](https://user-images.githubusercontent.com/46747652/99904510-cd70c580-2cfd-11eb-9c16-f1c10daa3d19.jpg)
 
 <h3>Installing</h3>
 
