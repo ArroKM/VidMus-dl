@@ -6,14 +6,32 @@ Download Video Dan Music
 
 ![IMG_20210417_073335](https://user-images.githubusercontent.com/46747652/115096460-658e7600-9f4f-11eb-9950-f386590c41ae.jpg)
 
-<h3>Installing</h3>
+<h3>Install</h3>
 
 ```java
-$ apt update && apt upgrade
-$ apt install git
-$ apt install nodejs
-$ git clone https://github.com/ArroKM/VidMus-dl
-$ cd VidMus-dl
-$ npm i
-$ node vidmus
+- apt update && apt upgrade
+- apt install git
+- apt install nodejs
+- git clone https://github.com/ArroKM/VidMus-dl
+- cd VidMus-dl
+- npm i
 ```
+
+<h3>Usage</h3>
+
+```java
+- node vidmus
+```
+
+## Author
+
+👤 **AseCx**
+
+* Twitter: [@Asexc3](https://twitter.com/asexc3)
+* Github: [@ArroKM](https://github.com/ArroKM)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
