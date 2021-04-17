@@ -30,8 +30,3 @@ Download Video Dan Music
 * Twitter: [@Asexc3](https://twitter.com/asexc3)
 * Github: [@ArroKM](https://github.com/ArroKM)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
