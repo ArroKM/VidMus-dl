@@ -1,0 +1,20 @@
+{
+  "name": "sc",
+  "version": "1.0.0",
+  "description": "scraper web",
+  "main": "dowhile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AseCx",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.6",
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
