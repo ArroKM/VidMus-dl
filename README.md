@@ -1,7 +1,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></br></br></br></br>
 
-<h3>VidMus-dl</h3>
-<p>Download Video Dan Music</p>
 
 <h3>Screenshot</h3>
 
